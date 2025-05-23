@@ -1,0 +1,34 @@
+/* Desciption in Future.... */
+
+
+/* Light Need Update! */
+:root {
+    --color-primary-50: #AE71DB;
+    --color-primary-100: #602D9D;
+    --color-primary-150: #9D59CC;
+    --color-primary-200: #EBDCF8;
+    --color-primary-300: #2B2D3E;
+    --color-primary-scrollbar: #5f2d9daf;
+    --color-card-bg: #212129;
+    --color-content-bg: #0F0F15;
+    --color-grey-50: #9AA3B2;
+    --color-grey-100: #2B2D3E;
+    --color-grey-150: #333546;
+    --color-primary-text-50: #0F0F15;
+  }
+  
+  
+  .dark {
+    --color-primary-50: #AE71DB;
+    --color-primary-100: #602D9D;
+    --color-primary-150: #9D59CC;
+    --color-primary-200: #EBDCF8;
+    --color-primary-300: #2B2D3E;
+    --color-primary-scrollbar: #5f2d9daf;
+    --color-card-bg: #212129;
+    --color-content-bg: #0F0F15;
+    --color-grey-50: #9AA3B2;
+    --color-grey-100: #2B2D3E;
+    --color-grey-150: #333546;
+    --color-primary-text-50: #FFFFFF;
+}

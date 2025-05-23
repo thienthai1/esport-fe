@@ -1,0 +1,38 @@
+.modal-overall {
+    @apply fixed inset-0 z-40 flex items-center justify-center  min-h-[100vh] text-white;
+}
+
+.betslip-outer {
+    @apply absolute inset-y-0 right-0 bg-card-bg w-[370px] mt-[48px] overflow-hidden h-[707px] main-rounded rounded-l;
+}
+
+.betslip-header-container {
+    @apply w-full h-[56px] bg-primary-150 font-outfit p-5;
+}
+
+.betslip-header-items {
+    @apply bg-white rounded-full w-[18px] h-[18px] flex items-center justify-center text-primary-150 text-xs
+}
+
+.betslip-header {
+    @apply w-fit h-full flex items-center text-base font-medium space-x-2 cursor-pointer;
+}
+
+.betslip-expand-icon.active {
+    transform: rotateX(180deg);
+}
+
+.betslip-tab-container {
+    width: 100%;
+    display: flex;
+    height: 40px;
+    background-color: #2B2D3E;
+
+    .items {
+        @apply flex items-center justify-center w-full h-full cursor-pointer;
+    }
+
+    .active {
+        @apply border-b-2 border-primary-150;
+    }
+}

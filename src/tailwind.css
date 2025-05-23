@@ -1,0 +1,11 @@
+@import './TailwindCSS/main-colors.css';
+@import './TailwindCSS/modal.css';
+@import './TailwindCSS/fonts.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main-rounded {
+  @apply  rounded-[16px];
+}
