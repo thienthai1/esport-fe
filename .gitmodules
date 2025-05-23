@@ -1,3 +1,6 @@
 [submodule "src/components/esport-fe"]
 	path = src/components/esport-fe
 	url = git@github.com:thienthai1/esport-fe.git
+[submodule "src/components/SportBetMainUi"]
+	path = src/components/SportBetMainUi
+	url = git@github.com:project-honest/SportBetMainUi.git
