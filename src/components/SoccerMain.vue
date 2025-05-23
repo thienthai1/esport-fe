@@ -1,3 +1,3 @@
 <template>
-    <h1>Sport bet fe</h1>
+    <h1 class="text-white">Sport bet fe</h1>
 </template>
