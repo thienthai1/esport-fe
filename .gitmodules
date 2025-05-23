@@ -1,0 +1,3 @@
+[submodule "src/components/esport-fe"]
+	path = src/components/esport-fe
+	url = git@github.com:thienthai1/esport-fe.git
